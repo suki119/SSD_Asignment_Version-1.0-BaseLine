@@ -1,0 +1,204 @@
+.container{
+    /* min-width: 800px; */
+     /* min-height: 90vh; */
+     background-color: white;
+     /* display: fixed; */
+     align-items: center;
+     justify-content: center;
+     margin-top: 69px;
+     width: 1650px;
+     height:170px;
+    
+     /* margin-left: 200px; */
+ }
+ /* <div className='containerA' style={{ "backgroundColor": "rgb(210 220 228)", "minWidth": "450px", "position": "absolute", "marginLeft": "830px", "height": "550px", "float": "right", "minHeight": "80vh", "borderRadius": "10px" }}> */
+ .containertwo{
+     /* min-width: 800px; */
+      min-height: 90vh;
+      background-color: white;
+      /* display: fixed; */
+      align-items: center;
+      justify-content: center;
+      margin-top: 80px;
+      width: 860px;
+    
+      position: absolute;
+      float: right;
+      margin-left: 820px;
+   
+      padding-right: 20px;
+      
+  }
+
+  .tableContainertwo {
+
+    background-color: rgb(255, 255, 255);
+    /* display: fixed; */
+
+
+    box-shadow: 0px 3px 2px 0px #dbd6d6;
+    height: fit-content;
+
+
+
+    width: 1610px;
+    margin-top: 490px;
+    margin-left: -1610px;
+    margin-bottom: 25px;
+
+}
+
+
+  .container3{
+    /* min-width: 800px; */
+     /* min-height: 20vh; */
+     background-color: white;
+     /* display: fixed; */
+     align-items: center;
+     justify-content: center;
+    
+     width: 1650px;
+     margin-top: 10px;
+   
+    
+     /* margin-left: 200px; */
+ }
+
+ 
+ .container4{
+  /* min-width: 800px; */
+   min-height: 20vh;
+   background-color: white;
+   /* display: fixed; */
+   align-items: center;
+   justify-content: center;
+  
+   width: 1650px;
+   margin-top: 10px;
+   margin-bottom: 15px;
+  
+   /* margin-left: 200px; */
+}
+ 
+ .form{
+     margin-left: 40px;
+     margin-right: 50px;
+     padding-right: 0px;
+     z-index: 1;
+    
+ }
+
+ .subCardOne{
+    margin-left: 15px;
+    margin-right: 50px;
+    padding-right: 0px;
+    z-index: 1;
+    background-color: #e6ecf9;
+}
+
+
+.subCardTwo{
+    margin-left: 15px;
+    margin-right: 50px;
+    padding-right: 0px;
+    z-index: 1;
+    background-color: #e6ecf9;
+    margin-top: 15px;
+}
+ 
+ .yourcustomstyles table thead {
+   font-size: 16px;
+   font-weight: 400;
+   border: none;
+   
+   
+ }
+ .yourcustomstyles tbody tr td {
+   font-size: 16px;
+   font-weight: 400;
+   border: none;
+   border-top: navy;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ @media only screen and (max-width : 1616px) {
+   .container {
+     /* left: 0; */
+     width: 1100px;
+     
+   
+     background-color: white;
+   }
+ }
+ 
+ @media only screen and (max-width : 1695px) {
+     .container {
+       /* left: 0; */
+       width: 800px;
+      
+       
+     
+       background-color: white;
+     }
+   }
+ 
+ 
+ @media only screen and (max-width : 1874px) {
+     .containertwo {
+       /* left: 0; */
+       width: 590px;
+       
+     
+       background-color: white;
+     }
+   }
+ 
+   
+ @media only screen and (max-width : 1797px) {
+     .containertwo {
+       /* left: 0; */
+       width: 450px;
+       
+     
+       background-color: white;
+     }
+   }
+ 
+   @media only screen and (max-width : 1695px) {
+     .containertwo {
+       /* left: 0; */
+       width: 450px;
+       margin-left: 950px;
+       
+     
+       background-color: white;
+     }
+   }
+ 
+ 
+   @media only screen and (max-width : 954px) {
+     .containertwo {
+       left: 0;
+       width: 50px;
+       margin-top: 550px;
+       float: left;
+       margin-right: 500px;
+       
+     
+       background-color: white;
+     }
+   }
+ /* @media screen and (max-width: 700px) {
+ 
+     .app-header button {
+       width: auto;
+     }
+   
+   
+   
+   } */
